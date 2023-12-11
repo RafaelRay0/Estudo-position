@@ -1,0 +1,32 @@
+header {
+    margin: 50px;
+    background-color: aquamarine;
+    
+    position: sticky;
+    top: 30px;
+}
+
+.div-pai {
+    position: relative;
+    padding: 40px;
+    background-color: rgb(91, 84, 84);
+}
+
+.div-filho {
+    position: absolute;
+    bottom: 0px;
+    
+    background-color: rgb(115, 40, 40);
+}
+
+.link {
+    padding-left: 70px;
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+    background-color: blueviolet;
+}
+
+
